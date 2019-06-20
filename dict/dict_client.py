@@ -88,7 +88,7 @@ def login(name):
             do_hist(name)
 
         elif cmd == "3":
-            pass
+            return
         else:
             print("请输入正确选项")
 
